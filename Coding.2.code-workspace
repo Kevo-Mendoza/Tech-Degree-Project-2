@@ -1,0 +1,42 @@
+{
+	"folders": [
+		{
+			"name": "Coding.2",
+			"path": "../../../Desktop/Coding.2"
+		},
+		{
+			"name": "Interacting with the DOM 5",
+			"path": "../../Interacting with the DOM 5"
+		},
+		{
+			"name": "practice-manipulating-the-dom_start 2",
+			"path": "../../practice-manipulating-the-dom_start 2"
+		},
+		{
+			"name": "Practice Traversing the DOM 2",
+			"path": "../../Practice Traversing the DOM 2"
+		},
+		{
+			"name": "practice-data-pagination 2",
+			"path": "../../practice-data-pagination 2"
+		},
+		{
+			"path": "../../data-pagination-and-filtering-v1 (1)"
+		},
+		{
+			"path": "../../list-pagination-fun-dom-manipulation"
+		},
+		{
+			"path": "../../list-pagination-wheres-the-action"
+		},
+		{
+			"path": "../../list-pagination-wheres-the-action (1)"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "data-pagination-and-filtering-v1 (2)"
+	}
+}
